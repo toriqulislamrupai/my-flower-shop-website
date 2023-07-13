@@ -141,6 +141,7 @@
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
     margin-top: 128px;
+    margin-bottom: 0;
 
 }
 
@@ -153,4 +154,30 @@
     text-align: center;
     margin-left: 350px;
 
+}
+
+.instagram {
+    text-align: center;
+}
+
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    margin-bottom: 0;
+    margin-top: 128px;
+}
+
+.insta-details {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+.insta-flower {
+    text-align: center;
 }
