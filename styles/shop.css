@@ -183,22 +183,81 @@
 .insta-flower {
     text-align: center;
 }
-.new-sector{
+
+.new-sector {
     text-align: center;
     margin-top: 35px;
+    margin-bottom: 0;
 }
-.new-title{
+
+.new-title {
     color: #272727;
     text-align: center;
     font-family: Lato;
     font-size: 40px;
     margin-bottom: 0;
 }
-.new-discription{
+
+.new-discription {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-family: Lato;
     font-size: 18px;
     line-height: 30px;
     margin-top: 5px;
+}
+
+.last-sector {
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: center;
+    margin-top: 128px;
+    margin-bottom: 0;
+
+}
+
+.last-heading {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800px;
+    margin-bottom: 0;
+}
+
+.last-details {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+    margin-top: 5px;
+}
+
+.email-replacing {
+    border-radius: 8px;
+    background-color: #FFF;
+    width: 300px;
+    height: 20px;
+    padding: 23px 513px 22px 22px;
+}
+.last-part{
+    text-align: center;
+    margin-top: 128px;
+    background-color: cadetblue;
+    padding: 128px 649px 128px 649px;
+}
+.shop{
+    font-size: 48px;
+}
+span{
+    color: #E55473;
+}
+.shop-details{
+    font-size: 18px;
+}
+.mail{
+    font-size: 16px;
 }
