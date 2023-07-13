@@ -1,5 +1,6 @@
-.header{
-    background-color: rgba(229, 84, 115, 0.10);;
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
 }
 
 
@@ -13,7 +14,7 @@
     margin: 50px 72px 65px 40px;
     margin-right: 500px;
     margin-bottom: 10px;
-    
+
 }
 
 .heading-middle {
@@ -37,7 +38,7 @@
 
 .banner .profile-picture {
     width: 635px;
-    
+
 
 }
 
@@ -48,5 +49,108 @@
     padding: 20px 20px;
     gap: 10px;
     text-align: center;
+
+}
+
+.featured {
+    margin: 100px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.section-discription {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    margin-right: 663px;
+    margin-left: 663px;
+    margin-top: 24px;
+
+}
+
+.full-featured {
+    margin-bottom: 0;
+}
+
+.flower-images {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.golap {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0 76px;
+}
+
+.belly {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px;
+
+}
+
+.rojonigonda {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0 75px;
+}
+
+.hot-deal {
+    margin-top: 128px;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.deal-discription {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 0;
+
+}
+
+
+.banner {
+    padding: 30px 500px 30px 395px;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+
+}
+
+.btn-secondary {
+    border-radius: 8px;
+    background: #E55473;
+    margin: 50px 72px 65px 40px;
+    padding: 20px 20px;
+    gap: 10px;
+    text-align: center;
+    margin-left: 350px;
 
 }
